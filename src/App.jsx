@@ -33,7 +33,7 @@ function getRoute() {
 
 function Brand({ footer = false }) {
   return <a className={`brand ${footer ? 'brand-footer' : ''}`} href="#/" aria-label="VIVRTI 2K27 home">
-    <img src="/assets/vivrti-emblem-crop.webp" alt="VIVRTI Eastopia emblem" />
+    <img src="/assets/vivrti-emblem-crop.png" alt="VIVRTI Eastopia emblem" />
     <span><b>VIVRTI</b><small>2K27 · EASTOPIA</small></span>
   </a>;
 }
