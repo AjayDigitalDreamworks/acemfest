@@ -3,7 +3,7 @@ export const site = {
   college: "Aravali College of Engineering and Management",
   month: "February 2027",
   dateLabel: "DATE TO BE ANNOUNCED",
-  instagram: "https://instagram.com/vivrti.2k27",
+  instagram: "https://instagram.com/vivrti2k27",
   tagline: "Beyond The Ordinary. Into The Extraordinary.",
 };
 
